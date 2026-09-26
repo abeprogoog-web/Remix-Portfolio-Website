@@ -50,7 +50,7 @@ function App() {
   return (
     <div className="App min-h-screen w-full max-w-full overflow-x-hidden">
       <Toaster position="bottom-right" />
-      <BrowserRouter>
+      <BrowserRouter> basename="/Remix-Portfolio-Website">
         <ScrollToTop />
         <Routes>
           <Route path="/" element={<PublicLayout><Home /></PublicLayout>} />

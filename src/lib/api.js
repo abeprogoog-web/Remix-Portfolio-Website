@@ -1,9 +1,47 @@
-import axios from "axios";
-import { preOptimizeFiles } from "./imageOptimizer";
+import { PRESERVED_STUDIO_DATA } from "@/data/seedData";
 
-const API = (typeof process !== "undefined" && process.env && process.env.REACT_APP_BACKEND_URL)
-  ? `${process.env.REACT_APP_BACKEND_URL}/api`
-  : "/api";
+/*
+ * GitHub Pages tidak menjalankan Express/server.ts.
+ * Jadi website publik membaca data langsung dari seedData.ts.
+ */
+
+const BASE_URL = import.meta.env.BASE_URL || "/";
+
+const withBase = (url) => {
+  if (!url) return url;
+
+  // Jangan ubah URL eksternal / data URL / blob
+  if (
+    url.startsWith("http://") ||
+    url.startsWith("https://") ||
+    url.startsWith("data:") ||
+    url.startsWith("blob:")
+  ) {
+    return url;
+  }
+
+  // Hindari base path dobel
+  if (url.startsWith(BASE_URL)) {
+    return url;
+  }
+
+  const cleanUrl = url.startsWith("/") ? url.slice(1) : url;
+
+  return `${BASE_URL}${cleanUrl}`;
+};
+
+const STATIC_PROJECTS = (PRESERVED_STUDIO_DATA.projects || []).map(
+  (project) => ({
+    ...project,
+
+    cover: withBase(project.cover),
+
+    images: (project.images || []).map((image) => ({
+      ...image,
+      url: withBase(image.url),
+    })),
+  }),
+);
 
 export const WORLDS = {
   anomaly: {
@@ -15,6 +53,7 @@ export const WORLDS = {
     description:
       "Experimental architecture and spatial research. Structures, installations and fragments produced by subtraction, displacement, folding and collision.",
   },
+
   furniture: {
     key: "furniture",
     index: "02",
@@ -24,6 +63,7 @@ export const WORLDS = {
     description:
       "Objects and furniture understood as small architecture. Each piece records a single design operation — peeling, compression, splitting — made legible in material.",
   },
+
   work: {
     key: "work",
     index: "03",
@@ -36,122 +76,108 @@ export const WORLDS = {
   },
 };
 
-export const getToken = () => localStorage.getItem("editor_token");
-export const setToken = (t) => localStorage.setItem("editor_token", t);
-export const clearToken = () => localStorage.removeItem("editor_token");
-export const authHeaders = () => ({
-  headers: { Authorization: `Bearer ${getToken()}` },
-});
+/*
+ * PUBLIC WEBSITE
+ */
 
 export const fetchPublished = async (world) => {
-  const { data } = await axios.get(`${API}/projects`, {
-    params: world ? { world } : {},
-  });
-  return data;
+  return STATIC_PROJECTS
+    .filter((project) => project.published)
+    .filter((project) => !world || project.world === world)
+    .sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
 };
 
 export const fetchProject = async (slug) => {
-  const { data } = await axios.get(`${API}/projects/${slug}`);
-  return data;
-};
-
-export const adminLogin = async (passcode) => {
-  const { data } = await axios.post(`${API}/auth/login`, { passcode });
-  return data;
-};
-
-export const adminVerify = async () => {
-  const { data } = await axios.get(`${API}/auth/verify`, authHeaders());
-  return data;
-};
-
-export const adminFetchAll = async () => {
-  const { data } = await axios.get(`${API}/admin/projects`, authHeaders());
-  return data;
-};
-
-export const adminFetchBySlug = async (slug) => {
-  const { data } = await axios.get(
-    `${API}/admin/projects/by-slug/${slug}`,
-    authHeaders()
+  const project = STATIC_PROJECTS.find(
+    (project) => project.slug === slug && project.published,
   );
-  return data;
-};
 
-export const adminCreate = async (payload) => {
-  const { data } = await axios.post(`${API}/admin/projects`, payload, authHeaders());
-  return data;
-};
-
-export const adminUpdate = async (id, payload) => {
-  const { data } = await axios.put(`${API}/admin/projects/${id}`, payload, authHeaders());
-  return data;
-};
-
-export const adminDelete = async (id) => {
-  const { data } = await axios.delete(`${API}/admin/projects/${id}`, authHeaders());
-  return data;
-};
-
-export const adminReorder = async (ids) => {
-  const { data } = await axios.post(`${API}/admin/projects/reorder`, { ids }, authHeaders());
-  return data;
-};
-
-export const adminUpload = async (files, onProgress) => {
-  if (!files || !files.length) return [];
-  const readyFiles = await preOptimizeFiles(files);
-  const form = new FormData();
-  for (const f of readyFiles) form.append("files", f);
-  const headers = authHeaders();
-  const { data } = await axios.post(`${API}/admin/uploads`, form, {
-    ...headers,
-    onUploadProgress: (progressEvent) => {
-      if (onProgress && progressEvent.total) {
-        const percent = Math.round((progressEvent.loaded * 100) / progressEvent.total);
-        onProgress(percent);
-      }
-    },
-  });
-  if (!data || !Array.isArray(data.urls)) {
-    throw new Error(data?.detail || "Server failed to return image URLs");
+  if (!project) {
+    throw new Error("Project not found");
   }
-  return data.urls;
+
+  return project;
 };
 
 export const fetchAbout = async () => {
-  const { data } = await axios.get(`${API}/about`);
-  return data;
-};
-
-export const adminUpdateAbout = async (payload) => {
-  const { data } = await axios.put(`${API}/admin/about`, payload, authHeaders());
-  return data;
-};
-
-export const adminChangePasscode = async (current_passcode, new_passcode) => {
-  const { data } = await axios.post(
-    `${API}/admin/change-passcode`,
-    { current_passcode, new_passcode },
-    authHeaders()
-  );
-  return data;
+  return PRESERVED_STUDIO_DATA.about;
 };
 
 export const fetchHomeIntro = async () => {
-  const { data } = await axios.get(`${API}/home-intro`);
-  return data;
+  const data = PRESERVED_STUDIO_DATA.home_intro || {};
+
+  return {
+    ...data,
+    bg_image: withBase(data.bg_image),
+  };
 };
 
-export const adminUpdateHomeIntro = async (payload) => {
-  const body = typeof payload === "string" ? { bg_image: payload } : payload;
-  const { data } = await axios.put(`${API}/admin/home-intro`, body, authHeaders());
-  return data;
+/*
+ * ADMIN / EDITOR
+ *
+ * GitHub Pages adalah static hosting.
+ * Fitur admin membutuhkan Node/Express backend, sehingga sengaja
+ * dinonaktifkan pada versi GitHub Pages.
+ */
+
+const ADMIN_ERROR =
+  "Admin features require the Node/Express backend and are not available on GitHub Pages.";
+
+export const getToken = () => {
+  if (typeof window === "undefined") return null;
+  return localStorage.getItem("editor_token");
 };
 
-export const adminSyncToCode = async () => {
-  const { data } = await axios.post(`${API}/admin/sync-code`, {}, authHeaders());
-  return data;
+export const setToken = (token) => {
+  if (typeof window !== "undefined") {
+    localStorage.setItem("editor_token", token);
+  }
 };
+
+export const clearToken = () => {
+  if (typeof window !== "undefined") {
+    localStorage.removeItem("editor_token");
+  }
+};
+
+export const authHeaders = () => ({
+  headers: {
+    Authorization: `Bearer ${getToken()}`,
+  },
+});
+
+const adminUnavailable = async () => {
+  throw new Error(ADMIN_ERROR);
+};
+
+export const adminLogin = adminUnavailable;
+
+export const adminVerify = adminUnavailable;
+
+export const adminFetchAll = adminUnavailable;
+
+export const adminFetchBySlug = adminUnavailable;
+
+export const adminCreate = adminUnavailable;
+
+export const adminUpdate = adminUnavailable;
+
+export const adminDelete = adminUnavailable;
+
+export const adminReorder = adminUnavailable;
+
+export const adminUpload = adminUnavailable;
+
+export const adminUpdateAbout = adminUnavailable;
+
+export const adminChangePasscode = adminUnavailable;
+
+export const adminUpdateHomeIntro = adminUnavailable;
+
+export const adminSyncToCode = adminUnavailable;
+
+/*
+ * HELPERS
+ */
 
 export const pad = (n) => String(n + 1).padStart(2, "0");

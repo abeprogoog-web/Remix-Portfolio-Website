@@ -1,0 +1,1386 @@
+{
+  "passcode_hash": "$2a$10$kuAsMwtZQMzeIGme5sm1IuQDoixRkPQT59I5rz2wpcezmXB6yWZs6",
+  "about": {
+    "intro": "A studio working between architecture and the object.",
+    "bio": [
+      "abearchitectstudio is an independent design practice investigating how a single operation can transform a space or an object. The work moves between three bodies: Design Anomaly, where architecture is tested through subtraction, displacement and deformation; Design Furniture, where the same operations are compressed into chairs, tables and lighting; and Work, where the practice is applied to supervision, building design and competition briefs.",
+      "This is placeholder text. Replace it with your own biography, education and practice statement."
+    ],
+    "facts": [
+      {
+        "label": "Education",
+        "value": "M.Arch"
+      },
+      {
+        "label": "Practice",
+        "value": "Independent studio, est. 2024"
+      },
+      {
+        "label": "Focus",
+        "value": "Architecture, spatial research, furniture"
+      }
+    ],
+    "email": "studio@abearchitectstudio.com",
+    "instagram": "@abearchitectstudio"
+  },
+  "home_intro": {
+    "bg_image": "",
+    "bg_position": "center"
+  },
+  "projects": [
+    {
+      "id": "c24f0e4c-5bb7-4f55-8003-2a4a6a894b5e",
+      "title": "Court Infinity Walk",
+      "slug": "subtracted-volume",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, Design, Visualization",
+      "summary": "An endless figure-eight promenade that twists over itself, creating a continuous artificial landscape.",
+      "concept": "Court Infinity Walk strips circulation down to pure continuous momentum. Conceived from the simple gesture of twisting a single loop into an infinity figure, the ramp produces an uninterrupted walking path that eliminates traditional beginnings and dead ends. As the deck banks and lifts over itself at the intersection, it behaves like an artificial hillside contour, gently tilting the body while constantly shifting the horizon. Below the rising deck, the massive structural base encloses sheltered perimeter walkways while carving out two open-air courtyards—one intimate and shaded beneath the elevated arch, the other broad and open to the sky.",
+      "question": "What happens when a path loops endlessly upon itself, transforming pedestrian movement into an artificial landscape contour?",
+      "operations": [
+        "LEMNISCATE TWISTING",
+        "GRADE SEPARATION",
+        "BANKED CURVATURE",
+        "DUAL-COURT FRAMING",
+        "ARTIFICIAL CONTOURING"
+      ],
+      "transformation": "From a flat, closed circular plane into a three-dimensional continuous figure-eight. Elevating one axis over the other resolves circulation conflict, producing an uninterrupted elevated loop and a dramatic vertical intersection. The surface gradually banks along its curvature so that circulation becomes more than horizontal movement—it begins to behave as artificial terrain. The crossing point rises to create spatial separation while simultaneously generating sheltered space below. As the loop twists, two contrasting courtyards emerge within its geometry, transforming a simple circulation diagram into an inhabitable architectural landscape.",
+      "sections": [
+        {
+          "heading": "Alternating Orbits and Perceptual Renewal",
+          "text": "The figure-eight trajectory continuously resets the visitor's orientation. Completing a clockwise loop around the first courtyard naturally reverses into a counter-clockwise sweep around the second, creating an alternating sequence of movement, view, and spatial perception. Rather than presenting circulation as a linear route between destinations, the architecture turns movement itself into the primary spatial experience. Each orbit reveals the courtyards, elevated deck, horizon, and surrounding landscape from a different angle, allowing repetition to produce perceptual renewal rather than monotony."
+        }
+      ],
+      "material": "Monolithic fair-faced Ultra-High-Performance Concrete",
+      "construction": "Continuous post-tensioned double-curved concrete shell",
+      "status": "Concept & structural feasibility study",
+      "images": [
+        {
+          "url": "/upload/court-infinity-walk-1.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/court-infinity-walk-2.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/court-infinity-walk-3.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/court-infinity-walk-1.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 0,
+      "created_at": "2026-09-12T12:50:14.795Z"
+    },
+    {
+      "id": "e4f8c21a-37b9-4b11-9a72-689b02418e5f",
+      "title": "Crashed Paper Church",
+      "slug": "crashed-paper-church",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "Two fallen planes are pushed into one another until collision bends them upward, creating a sacred void beneath compression.",
+      "concept": "Crashed Paper Church begins with an ordinary and fragile object: two sheets of paper lying flat on the ground. When they are pushed toward one another, collision causes them to buckle, lift, and curve, producing a space beneath what was once only surface. This simple act of compression becomes the basis for a church, where enclosure is not built through conventional walls and roofs, but discovered through the deformation of planes. The project transforms impact into shelter and turns a moment of structural resistance into a spiritual interior. Beneath the converging surfaces, the void becomes a place of gathering, silence, and upward contemplation. Light enters through displaced openings, reinforcing the idea that the sacred space is not added onto the form, but revealed by the crash itself.",
+      "question": "What happens when two flat surfaces collide hard enough to create a place of worship beneath them?",
+      "operations": [
+        "COLLISION",
+        "COMPRESSION",
+        "BUCKLING",
+        "CURVING",
+        "LIFTING",
+        "HOLLOWING",
+        "FRAMING",
+        "REVEALING"
+      ],
+      "transformation": "From two conventional horizontal planes, the project begins with an act of lateral pressure. As the sheets are pushed toward one another, each resists remaining flat and begins to bend upward. What would normally be a collapsed or failed moment is reinterpreted as a generative one. The rising surfaces form a shared enclosure, while the space trapped beneath them becomes inhabitable. Openings are then carved into the lifted planes to admit light and deepen the sense of interiority. Through compression, a flat object becomes a spatial shell; through collision, a residual void becomes a sanctuary.",
+      "sections": [
+        {
+          "heading": "Collision as Genesis",
+          "text": "The project starts with a simple physical observation: when two sheets are forced into one another, they do not remain passive. They bend, resist, and generate curvature. Rather than treating this collision as failure, the design sees it as an origin point. Sacred space is born not from assembly, but from impact."
+        },
+        {
+          "heading": "From Surface to Shelter",
+          "text": "What was once only a thin plane is transformed into an enclosing architectural body. The surfaces rise from the ground and begin to act simultaneously as wall, roof, and threshold. Their curvature does not merely shape the form; it produces the interior condition itself. Shelter is therefore not added, but discovered through deformation."
+        }
+      ],
+      "material": "Monolithic fair-faced white concrete",
+      "construction": "Twin cast-in-place curved concrete plates formed as compressed shell surfaces",
+      "status": "Concept & spatial feasibility study",
+      "images": [
+        {
+          "url": "/upload/crashed-paper-church/crashed-paper-church-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/crashed-paper-church/crashed-paper-church-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/crashed-paper-church/crashed-paper-church-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/crashed-paper-church/crashed-paper-church-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/crashed-paper-church/crashed-paper-church-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/crashed-paper-church/crashed-paper-church-6.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/crashed-paper-church/crashed-paper-church-7.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/crashed-paper-church/crashed-paper-church-8.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/crashed-paper-church/crashed-paper-church-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 1,
+      "created_at": "2026-09-12T12:53:00.000Z"
+    },
+    {
+      "id": "b3f9a12c-48d2-4f11-8b33-9182a47291a1",
+      "title": "Dislocated Hexscape",
+      "slug": "dislocated-hexscape",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A continuous field of hexagonal ground plates is dislocated until the floor begins to produce voids, thresholds, gathering pockets, and inhabitable terrain.",
+      "concept": "Dislocated Hexscape begins with a simple ontological question: at what point does a floor stop being a floor? The project takes the ground as a familiar modular system—flat, stable, repetitive, and continuous—then intentionally disturbs it through a series of minor dislocations. Hexagonal plates are lifted, lowered, shifted, and slightly detached from one another, breaking the expectation that the floor must remain passive and uniform. Through these small acts of displacement, the ground begins to acquire spatial agency. What was once merely a surface for occupation starts to produce edges, cavities, platforms, thresholds, and voids. Space is therefore not imposed from above by walls and roofs, but extracted from within the logic of the floor itself. The project transforms a stable field into an inhabitable terrain where circulation, gathering, pause, and visual connection emerge from the dislocated condition of the ground plane.",
+      "question": "At what point does a floor stop being a floor and begin to act as architecture?",
+      "operations": [
+        "DISPLACING",
+        "LIFTING",
+        "LOWERING",
+        "SLIDING",
+        "OFFSETTING",
+        "SEPARATING",
+        "CARVING",
+        "THICKENING"
+      ],
+      "transformation": "From a conventional flat ground plane, the project begins with a modular hexagonal field defined by repetition and continuity. Rather than adding architectural mass onto this surface, the system is disturbed from within. Individual modules are shifted slightly out of position, some rise above the datum, others sink below it, and a few detach just enough to create slippages between adjacent pieces. These subtle manipulations interrupt the neutrality of the floor and generate spatial consequences: gaps become light wells, lowered pockets become gathering zones, raised surfaces become stages and platforms, and dislocated edges become thresholds for movement. Through displacement rather than addition, the ground evolves from passive support into active spatial structure.",
+      "sections": [
+        {
+          "heading": "When the Ground Refuses Stability",
+          "text": "The project starts with the assumption that a floor should remain flat, stable, and continuous. Dislocated Hexscape challenges this expectation by treating the ground not as a neutral base, but as something capable of movement and transformation. The moment the floor is displaced, it no longer behaves as background; it begins to participate in the making of space."
+        },
+        {
+          "heading": "The Modular Field as Spatial Matter",
+          "text": "The hexagon is used as a repeatable unit of order, familiarity, and continuity. Its modular logic establishes a stable field that can be easily understood as ground. Yet this same regularity becomes the condition that makes disruption legible. Because the system is so familiar, even minor shifts in height and position produce strong spatial and perceptual effects. The field becomes not just a pattern, but a material for architectural experimentation."
+        }
+      ],
+      "material": "Monolithic fair-faced white concrete",
+      "construction": "Modular cast-in-place concrete hexagonal plates with displaced vertical offsets",
+      "status": "Concept & spatial sequencing study",
+      "images": [
+        {
+          "url": "/upload/dislocated-hexscape/dislocated-hexscape-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/dislocated-hexscape/dislocated-hexscape-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/dislocated-hexscape/dislocated-hexscape-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/dislocated-hexscape/dislocated-hexscape-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/dislocated-hexscape/dislocated-hexscape-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/dislocated-hexscape/dislocated-hexscape-6.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/dislocated-hexscape/dislocated-hexscape-7.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/dislocated-hexscape/dislocated-hexscape-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 3,
+      "created_at": "2026-09-12T12:54:00.000Z"
+    },
+    {
+      "id": "f5a8b32e-91c4-4d22-8f11-39281a473822",
+      "title": "Flow to Form",
+      "slug": "flow-to-form",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "Two linear paths converge into a shared node, where circulation bifurcates and rises to generate architecture as an unfolding spatial sequence.",
+      "concept": "Flow to Form begins with the premise that architecture can emerge directly from movement. Instead of treating circulation as something inserted into an already defined object, the project understands flow as the primary generator of space and form. Two linear paths approach one another and converge at a central node, where the user is confronted with a decision: to move directly into the inner space, or to follow a lifted surface that gradually bends upward into a ramp. This split produces two simultaneous spatial experiences—one immediate, grounded, and direct; the other gradual, elevated, and sequential. As the surface rises and curves around the circular core, the centre is not encountered as a fixed object, but revealed as a space discovered through motion. Form is therefore not composed in advance. It is shaped by the logic of approach, choice, ascent, and return.",
+      "question": "What happens when circulation is no longer applied to architecture, but becomes the force that gives architecture its form?",
+      "operations": [
+        "CONVERGING",
+        "BIFURCATING",
+        "LIFTING",
+        "RAMPING",
+        "LOOPING",
+        "REVEALING",
+        "REDIRECTING",
+        "RETURNING"
+      ],
+      "transformation": "From two conventional linear paths, the project begins as a simple diagram of approach. Rather than resolving movement through a single direct continuation, both paths merge into a central point of convergence where circulation splits into alternative trajectories. One path remains grounded and immediate, leading directly into the inner space. The other is pulled upward as the ground deforms into a lifted ramp that curls around the circular core. This gradual ascent extends the act of arrival and transforms circulation into an inhabitable architectural surface. Through this deformation, the flow of movement produces threshold, enclosure, elevation, and spatial sequence. What begins as circulation ultimately becomes form.",
+      "sections": [
+        {
+          "heading": "Circulation as Generator",
+          "text": "The project reverses the conventional relationship between form and movement. Rather than designing a building first and then assigning circulation to it, Flow to Form begins with trajectories of movement. Architecture emerges as the spatial consequence of flow, allowing circulation to operate not as a secondary system, but as the primary generator of form."
+        },
+        {
+          "heading": "The Node of Choice",
+          "text": "At the centre of the project, two incoming paths meet to form a node of decision. This moment is not simply an intersection, but a spatial condition where the user must choose between two modes of experience. One path leads directly inward, offering immediacy and proximity. The other extends the journey through a lifted route, delaying arrival and making movement itself more perceptible."
+        },
+        {
+          "heading": "Grounded and Elevated Experience",
+          "text": "The deformation of the ground creates a dual reading of space. The lower route remains direct, stable, and grounded, allowing entry with minimal mediation. In contrast, the elevated route transforms the same act of entry into a gradual ascent. This produces two distinct but related spatial experiences: one defined by direct access, the other by temporal unfolding."
+        },
+        {
+          "heading": "The Core Revealed Through Motion",
+          "text": "The circular core is not treated as an object to be viewed from a single static position. Instead, it is progressively disclosed through movement. As the ramp curves around it, the user encounters the centre through shifting perspectives and partial revelations. The core is therefore understood not as a fixed figure, but as a space discovered through sequence, motion, and return."
+        },
+        {
+          "heading": "Form Shaped by Flow",
+          "text": "Flow to Form proposes an architecture that is not imposed, but derived. Its geometry is the residue of movement—of convergence, divergence, ascent, and choice. By allowing circulation to bend the ground and organize the experience of space, the project demonstrates how form can emerge from the logic of motion itself. The building is not something movement passes through; it is something movement creates."
+        }
+      ],
+      "material": "Monolithic fair-faced white concrete",
+      "construction": "Continuous cast-in-place concrete promenade with bifurcated circulation and elevated ramp loop",
+      "status": "Concept & circulation-driven spatial study",
+      "images": [
+        {
+          "url": "/upload/flow-to-form/flow-to-form-1.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/flow-to-form/flow-to-form-2.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/flow-to-form/flow-to-form-3.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/flow-to-form/flow-to-form-4.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/flow-to-form/flow-to-form-1.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 4,
+      "created_at": "2026-09-12T12:55:00.000Z"
+    },
+    {
+      "id": "7dade183-45ff-44a1-ba60-999e5c022b0a",
+      "title": "Laced Cylinder Mass",
+      "slug": "laced-cylinder-mass",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "Four staggered cylinders of ascending height bound by an uninterrupted ribbon ramp that sculpts shelter below and lookout points above.",
+      "concept": "The project translates a tactile design logic into permanent mass: four vertical cylinders are placed in an alternating zigzag pattern, ascending steadily from lowest to highest. A single continuous ribbon is drawn along their edges, weaving from one cylinder to the next to trace an uninterrupted climbing path. Rather than remaining an applied catwalk, the underside of this deck stretches down to the earth in smooth hyperbolic fillets. This operation fuses structural support and pedestrian circulation into a single monolithic topography—carving shaded alcoves at the ground plane while guiding the visitor toward an elevated belvedere at the highest drum.",
+      "question": "What happens when a ramp ceases to be a bridge between columns and instead becomes the thread that ties the mass together?",
+      "operations": [
+        "Zigzag Staggering",
+        "Height Progression",
+        "Ribbon Lacing",
+        "Hyperbolic Fillet",
+        "Undercroft Carving",
+        "Belvedere Termination"
+      ],
+      "transformation": "From four static, isolated vertical drums into an interconnected spatial armature. The upward pull of the walking ribbon deforms the rigid cylinders, pulling their structural skins down to the ground plane to create enclosed pockets beneath and open platforms above.",
+      "sections": [
+        {
+          "heading": "Geometric Stringing and Alternating Balance",
+          "text": "Staggering the four cylinders along a zigzag line provides innate lateral bracing. As the walking ribbon weaves through the sequence, each reverse curve counteracts the torsional pull of the preceding span. The controlled progression of heights turns what would be an arbitrary zig-zag into a continuous, climbing journey that balances physical forces and choreographs sightlines simultaneously."
+        }
+      ],
+      "material": "Monolithic fair-faced Ultra-High-Performance Concrete (UHPC), sand-blasted non-slip aggregate walking surface, concealed linear edge drainage, recessed stainless-steel balustrade with integrated handrail lighting.",
+      "construction": "In-situ concrete cylindrical cores acting as shear anchors; continuous post-tensioned UHPC deck cast with double-curved CNC-milled EPS formwork to form monolithic transitional flared fillets.",
+      "status": "Concept & structural feasibility study",
+      "images": [
+        {
+          "url": "/upload/laced-cylinder-mass/laced-cylinder-mass-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/laced-cylinder-mass/laced-cylinder-mass-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/laced-cylinder-mass/laced-cylinder-mass-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/laced-cylinder-mass/laced-cylinder-mass-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/laced-cylinder-mass/laced-cylinder-mass-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/laced-cylinder-mass/laced-cylinder-mass-6.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/laced-cylinder-mass/laced-cylinder-mass-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 1,
+      "created_at": "2026-09-12T12:50:14.795Z"
+    },
+    {
+      "id": "8794bcd1-6b18-4493-a245-566d4a1929ad",
+      "title": "V-Threshold Gallery",
+      "slug": "v-threshold-gallery-2",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A tilted circular disc incised and folded upward into a triangular crest, carving dual spatial realms without wasting a single plane of material.",
+      "concept": "The project investigates the spatial and material efficiency of zero-subtraction sheet folding. Starting with a pure, inclined circular plane, an internal triangular slit is made and its vertex lifted upward. This single mechanical action eliminates dead space and generates two distinct architectural conditions from one continuous surface: an intimate, compressed ring hovering close to the ground, and a soaring, light-filled central gallery that frames an open sky-oculus around a solitary tree.",
+      "question": "What happens when a single sheet of roof cuts and folds itself to become both shelter and sky?",
+      "operations": [
+        "Disc Tilting",
+        "Geometric Incision",
+        "Flap Lifting",
+        "Folded Plate Stiffening",
+        "Spatial Compression/Release",
+        "Oculus Carving"
+      ],
+      "transformation": "From a single planar disc into an inclined, active envelope. The triangular incision and upward lift cleave the homogenous surface into two complementary volumes: a low-slung, horizon-facing perimeter and a soaring inner threshold framing living nature",
+      "sections": [
+        {
+          "heading": "The Zero-Waste Cut",
+          "text": "By avoiding additive or subtractive volume logic, the design operates strictly through incision and inflection. The triangular cut does not discard matter; rather, lifting the tip transforms the flat boundary into an expansive vertical threshold. The perimeter edge remains anchored to the tilted slope, ensuring that every square meter of the original circle participates actively in defining interior envelope or sheltered terrace."
+        }
+      ],
+      "material": "Matte-coated stressed-skin structural steel shell, ultra-clear structural silicone-glazed triangular curtain wall, slender solid steel pin columns, integrated circular gravel lightwell base.",
+      "construction": "Zero-waste folded plate mechanism; stressed-skin steel diaphragm frame where the base fold acts as a primary torque-transfer hinge, lifting a self-stiffening triangular canopy over a perimeter ring supported by lightweight pinned props.",
+      "status": "Concept & structural feasibility study",
+      "images": [
+        {
+          "url": "/upload/v-threshold-gallery/v-threshold-gallery-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/v-threshold-gallery/v-threshold-gallery-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/v-threshold-gallery/v-threshold-gallery-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/v-threshold-gallery/v-threshold-gallery-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/v-threshold-gallery/v-threshold-gallery-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/v-threshold-gallery/v-threshold-gallery-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 2,
+      "created_at": "2026-09-12T12:50:14.795Z"
+    },
+    {
+      "id": "83b4c91d-5927-41ab-88df-29471ab5231c",
+      "title": "Manta Surge",
+      "slug": "manta-surge",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2026",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualisation",
+      "summary": "A monolithic fluid canopy sweeping upward like an emerging manta ray, draping over archetypal gabled pavilions to compress and release threshold spaces.",
+      "concept": "Manta Surge explores the dialogue between an overarching, hydrodynamic megastructure and the intimate scale of domestic archetypes. Taking inspiration from the undulating glide of a manta ray rising toward the ocean surface, a single continuous sheet sweeps across the landscape. Rather than floating above as a detached roof, the surface physically billows over three discrete gabled pavilions, dipping into steep catenary valleys between them. This produces a dramatic spatial rhythm: cavernous release above the gables and intensely compressed, glowing interstitial thresholds in the dips, uniting separate micro-buildings into a single monumental terrain.",
+      "question": "What happens when a roof refuses to be flat and instead drapes like a living mantle, turning the gaps between houses into the primary spatial event?",
+      "operations": [
+        "Surface Draping",
+        "Hydrodynamic Flaring",
+        "Archetype Encasement",
+        "Catenary Compression",
+        "Inverted Vaulting",
+        "Thrust Grounding"
+      ],
+      "transformation": "From three isolated, static gabled pavilions into an interconnected macro-topography. The fluid sheet surges over the ridges and plunges between the gaps, deforming the conventional boundary between roof, wall, and ground plane.",
+      "sections": [
+        {
+          "heading": "The Rhythm of Peaks and Catenary Valleys",
+          "text": "The spatial tension of the project is generated entirely by vertical modulation. Over each pavilion, the shell peaks to accommodate the familiar domestic gable. In the intervals between them, the material drops within inches of the floor, creating compressed, glowing slits of light. Visitors move through alternating atmospheres—from enclosed shelter to expansive public ground—guided by the gentle swell and dip of the overhead mass."
+        }
+      ],
+      "material": "Monolithic fair-faced Ultra-High-Performance Concrete (UHPC) thin shell, dark cast basalt/slate masonry for the pavilion gables, bronze-trimmed threshold portals, continuous recessed linear ground uplighting.",
+      "construction": "Continuous double-curved post-tensioned thin shell; three rigid reinforced concrete gable pavilions serve as primary compression piers and shear cores, while the flared side wingtips anchor directly into deep tension-tie foundations to counteract outward horizontal thrust.",
+      "status": "Concept & structural feasibility study",
+      "images": [
+        {
+          "url": "/upload/manta-surge/manta-surge-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/manta-surge/manta-surge-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/manta-surge/manta-surge-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/manta-surge/manta-surge-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/manta-surge/manta-surge-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/manta-surge/manta-surge-6.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/manta-surge/manta-surge-7.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/manta-surge/manta-surge-8.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/manta-surge/manta-surge-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "order": 7,
+      "created_at": "2026-09-12T12:52:00.000Z"
+    },
+    {
+      "id": "94c8e71b-6831-40ef-97cc-58193fe4109f",
+      "title": "Continuum of Passage",
+      "slug": "continuum-of-passage",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A continuous promenade thickened into an experiential gallery, where circulation ceases to connect destinations and becomes the destination itself.",
+      "concept": "Continuum of Passage begins with the ordinary assumption that a passage exists only to connect one space to another. Here, circulation is detached from that obligation and treated instead as an architectural object with its own spatial agency. A single continuous path is thickened, curved, and folded into an inhabitable figure, allowing movement, enclosure, and perception to emerge from the same formal gesture. What would normally remain secondary—the corridor, the walkway, the in-between—becomes the primary architectural event. As visitors progress along the elongated curve, the project transforms movement into a sequence of gradual revelations, pauses, and moments of introspection. At its curled inner terminus, the journey compresses into a quieter spatial condition, where motion slows and passage becomes reflection.",
+      "question": "What happens when a passage no longer leads somewhere else, but becomes the place it was meant to connect?",
+      "operations": [
+        "THICKENING",
+        "CURVING",
+        "LOOPING",
+        "FOLDING",
+        "ELONGATING",
+        "ENCLOSING",
+        "RETURNING"
+      ],
+      "transformation": "From a conventional linear corridor, the passage is released from its duty to simply transport the body from origin to destination. The line is first extended, then bent into a sinuous trajectory that slows direct movement and stretches the experience of transition. Its thickness increases until circulation gains spatial depth, allowing the path to become room-like rather than purely connective. One end curls inward to form a tighter zone of visual and bodily concentration, while the overall figure remains open-ended in perception, suggesting continuity beyond a fixed beginning or end. What starts as an instrument of access gradually transforms into a self-contained architectural continuum—part promenade, part gallery, part spatial meditation.",
+      "sections": [
+        {
+          "heading": "The Passage as Destination",
+          "text": "The project reverses the conventional hierarchy between room and corridor. Instead of serving a fixed destination, the passage itself becomes the central architectural event. Movement is no longer a subordinate act of getting somewhere else; it becomes the primary mode of inhabitation. The building is therefore experienced not as a collection of rooms, but as an extended spatial condition unfolding through time."
+        },
+        {
+          "heading": "Continuous Movement, Delayed Arrival",
+          "text": "Its elongated curve produces a journey that is intentionally stretched and softened. There is no abrupt threshold, no singular focal endpoint, and no immediate sense of completion. Each step reveals a slightly altered alignment of wall, railing, void, and horizon, allowing the visitor to experience architecture as a gradual sequence rather than a fixed image. Arrival is continuously delayed, making perception more attentive and movement more reflective."
+        }
+      ],
+      "material": "Monolithic fair-faced white concrete",
+      "construction": "Continuous cast-in-place post-tensioned concrete ribbon",
+      "status": "Concept & experiential sequencing study",
+      "images": [
+        {
+          "url": "/upload/continuum-of-passage/continuum-of-passage-1.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/continuum-of-passage/continuum-of-passage-2.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/continuum-of-passage/continuum-of-passage-3.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/continuum-of-passage/continuum-of-passage-4.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/continuum-of-passage/continuum-of-passage-5.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/continuum-of-passage/continuum-of-passage-1.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": false,
+      "order": 8,
+      "created_at": "2026-09-12T12:53:00.000Z"
+    },
+    {
+      "id": "b6d294ac-2015-4b19-98ea-64bdac04c337",
+      "title": "Pinched Kitchen Island",
+      "slug": "pinched-kitchen-island",
+      "world": "furniture",
+      "category": "Furniture / Interior Object",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A conventional kitchen island is pinched at its center, turning compression into both functional clearance and spatial identity.",
+      "concept": "Pinched Kitchen Island begins with a simple question: what if function emerged from deformation rather than addition? The project starts with the familiar rectangular kitchen island, a stable object usually composed through attached cabinets, fixtures, and accessories. Instead of adding another element to accommodate use, the body itself is compressed at its centre. This local pinch pulls the lower volume inward and subtly distorts the countertop above, creating a recessed washing zone within a single continuous gesture. The resulting opening provides clearance for the body while concentrating the sink and work area around the point of deformation. What would normally be resolved through separate components is instead embedded into the geometry of the object itself. A small act of pressure becomes function, ergonomics, and character at once.",
+      "question": "What if a kitchen island gained function not by adding another element, but by yielding under pressure?",
+      "operations": [
+        "PINCHING",
+        "COMPRESSING",
+        "NARROWING",
+        "RECESSING",
+        "CURVING",
+        "HOLLOWING",
+        "INTEGRATING",
+        "ACCOMMODATING"
+      ],
+      "transformation": "The project begins with a conventional rectangular kitchen island defined by a straight countertop and continuous cabinet volume. A horizontal compression is then applied toward its centre. As the body yields, the lower mass pulls inward to form an arched recess, while the upper edge responds with a softer concave deformation. This compressed zone becomes the functional washing area, accommodating both the sink and the user without requiring a separate attached component. The transformation remains deliberately local: most of the original rectangular geometry is preserved so the deformation can be clearly read as an event. Rectangle becomes pinch; pinch becomes clearance; clearance becomes function.",
+      "sections": [
+        {
+          "heading": "The Ordinary Rectangle",
+          "text": "The project begins with the kitchen island in its most familiar state: a long rectangular object defined by storage below and workspace above. Its neutrality establishes the condition from which a very small deformation can become immediately legible."
+        },
+        {
+          "heading": "Compression as Design Tool",
+          "text": "Rather than attaching another object, the island is treated as a body capable of yielding. Pressure is imagined from both sides toward the centre, causing the mass to narrow locally. The geometry therefore records force directly, allowing form to emerge from a simple physical action."
+        },
+        {
+          "heading": "Function Inside the Pinch",
+          "text": "The compressed centre is not merely expressive. Its recession creates the clearance necessary for washing and working, while the sink is positioned directly above the deformation. Function and form therefore occupy the same moment: the place where the object changes shape is also the place where its use becomes most concentrated."
+        },
+        {
+          "heading": "One Object, Fewer Additions",
+          "text": "Pinched Kitchen Island reduces the distinction between furniture body and functional attachment. Instead of assembling separate formal gestures around the sink, the primary volume absorbs the requirement into itself. The island remains visually singular even as it performs multiple roles."
+        },
+        {
+          "heading": "Character Through a Small Deformation",
+          "text": "The project suggests that identity does not always require dramatic transformation. A single pinch is enough to disturb the expected rectangle, produce ergonomic value, and give the object a recognizable character. The result is a familiar kitchen element made unfamiliar through one precise act of pressure."
+        }
+      ],
+      "material": "Monolithic solid-surface body, integrated countertop, and stainless-steel wash basin",
+      "construction": "A linear kitchen island is locally compressed at its center, creating an arched recessed zone that accommodates washing while preserving a continuous body",
+      "status": "Concept & functional-form study",
+      "images": [
+        {
+          "url": "/upload/pinched-kitchen-island/pinched-kitchen-island-1.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/pinched-kitchen-island/pinched-kitchen-island-2.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/pinched-kitchen-island/pinched-kitchen-island-3.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/pinched-kitchen-island/pinched-kitchen-island-4.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/pinched-kitchen-island/pinched-kitchen-island-5.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/pinched-kitchen-island/pinched-kitchen-island-6.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/pinched-kitchen-island/pinched-kitchen-island-1.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 1,
+      "created_at": "2026-09-14T08:01:55.740Z"
+    },
+    {
+      "id": "c9a2f1b4-73e2-4f88-9b11-4a27b8293c4d",
+      "title": "Yielding Mass",
+      "slug": "yielding-mass",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A rigid building mass yields under the imagined weight of a stair, deforming into a soft vertical incision that transforms circulation into structure and roof access.",
+      "concept": "Yielding Mass begins by questioning the presumed rigidity of architectural mass. Instead of treating the building as a fixed and resistant volume, the project imagines it as something soft enough to respond to pressure. A stair is introduced not as an element attached to the facade, but as a force with weight. As it presses downward across the building, the mass appears to yield beneath it, bending and deforming like clay under tension. This deformation generates a continuous vertical passage from ground to rooftop, transforming circulation into a physical imprint on the building itself. The stair therefore does not simply provide access; it reshapes the architecture around it. What would normally remain a secondary circulation element becomes the agent that causes the mass to bend, open, and reorganize itself.",
+      "question": "What happens when a building mass stops resisting circulation and begins to yield under its weight?",
+      "operations": [
+        "LOADING",
+        "PRESSING",
+        "YIELDING",
+        "BENDING",
+        "SAGGING",
+        "CARVING",
+        "STRETCHING",
+        "CONNECTING"
+      ],
+      "transformation": "The project begins with a conventional solid building mass whose rooftop remains separated from the ground by vertical enclosure. A stair is then introduced as a continuous external trajectory. Instead of resting passively against the building, its weight is imagined to press into the mass itself. The surface begins to deform along the stair’s path, sinking inward and curving toward the centre as though the building were made of soft material. This creates a continuous valley-like incision that draws circulation upward while simultaneously reshaping the facade and roof edge. The stair becomes embedded within the deformation, turning access into a visible consequence of pressure. What begins as a rigid volume gradually transforms into a yielding architectural body shaped by movement and weight.",
+      "sections": [
+        {
+          "heading": "When Mass Becomes Soft",
+          "text": "Architecture is typically understood as rigid, fixed, and resistant to deformation. Yielding Mass reverses this assumption by imagining the building as a soft body capable of responding to force. The project asks what would happen if architectural mass behaved less like concrete and more like clay—if pressure could be recorded directly in its form."
+        },
+        {
+          "heading": "The Stair as Weight",
+          "text": "The stair is treated not merely as circulation, but as a physical load acting on the building. Its continuous descent is imagined to press into the volume, forcing the mass to curve and sink beneath it. In this way, the stair becomes more than an inserted element; it becomes the cause of architectural deformation."
+        },
+        {
+          "heading": "Deformation as Access",
+          "text": "As the mass yields, the resulting curvature produces a continuous path between the ground and rooftop. Access is therefore not created by attaching a staircase onto the building, but by deforming the building until circulation can inhabit the fold. The act of bending produces both the route and the spatial identity of the project."
+        },
+        {
+          "heading": "Tension Between Solid and Void",
+          "text": "The deformation creates a deep spatial incision between two otherwise massive building bodies. This narrowing valley intensifies the contrast between solid enclosure and open passage. As the surfaces pull downward toward the stair, the architecture appears suspended between resistance and collapse, producing a space defined by tension rather than conventional enclosure."
+        },
+        {
+          "heading": "Circulation Leaves a Scar",
+          "text": "Yielding Mass proposes that movement can leave a permanent physical trace on architecture. The stair becomes a kind of scar across the building—a visible record of pressure, gravity, and passage. Rather than concealing circulation within the mass, the project allows movement to visibly alter it. The building does not simply contain circulation; it remembers it through deformation."
+        }
+      ],
+      "material": "Monolithic fair-faced white concrete",
+      "construction": "Deformed cast-in-place concrete mass with integrated stair spine and roof access",
+      "status": "Concept & deformation-driven spatial study",
+      "images": [
+        {
+          "url": "/upload/yielding-mass/yielding-mass-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/yielding-mass/yielding-mass-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/yielding-mass/yielding-mass-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/yielding-mass/yielding-mass-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/yielding-mass/yielding-mass-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/yielding-mass/yielding-mass-6.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/yielding-mass/yielding-mass-7.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/yielding-mass/yielding-mass-8.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/yielding-mass/yielding-mass-9.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/yielding-mass/yielding-mass-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 5,
+      "created_at": "2026-09-12T12:56:00.000Z"
+    },
+    {
+      "id": "e81f2a3c-49d1-4f99-8b22-19283a475869",
+      "title": "Extruded Wound",
+      "slug": "extruded-wound",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A rigid wall is not opened by subtraction, but deformed by pressure from within, producing a protruded wound that becomes occupiable space.",
+      "concept": "Extruded Wound begins with a simple ontological question: what if a wall is not opened by cutting into it, but by pushing through it from within? The project treats the wall not as a fixed boundary to be punctured, but as a surface capable of receiving pressure, swelling outward, and transforming under tension. A force from the interior distorts the facade until the once-flat plane thickens into an inhabitable recess. What emerges is neither a conventional window nor an applied balcony, but a spatial wound—an extrusion that records the moment when enclosure gives way to inhabitation. The small balcony is therefore not an added architectural component. It is the visible consequence of internal pressure, a deformation that converts surface into space, boundary into access, and tension into occupation.",
+      "question": "What happens when a wall is opened not by cutting into it, but by pushing it outward from within?",
+      "operations": [
+        "PRESSING",
+        "EXTRUDING",
+        "DEFORMING",
+        "THICKENING",
+        "BULGING",
+        "HOLLOWING",
+        "REVEALING",
+        "OCCUPYING"
+      ],
+      "transformation": "The project begins with a simple enclosed volume defined by a continuous pitched envelope and a stable vertical wall. Rather than carving an opening into this surface, pressure is imagined from the inside. As this force pushes outward, the wall begins to deform, losing its planar neutrality and swelling into space. The surface thickens, bends, and separates just enough to create an inhabitable cavity within the facade. What would normally be a mere aperture becomes a small occupiable threshold—a balcony-like niche formed by extrusion rather than addition. Through this process, the wall changes from passive enclosure into an active spatial event shaped by internal tension.",
+      "sections": [
+        {
+          "heading": "The Wall Under Pressure",
+          "text": "The project begins by questioning the assumed stillness of the wall. Conventionally, a wall stands as a passive boundary—flat, sealed, and stable. Extruded Wound challenges this condition by imagining the wall as something capable of responding to force. Under pressure from within, the facade ceases to be a neutral separator and becomes a deformable architectural body."
+        },
+        {
+          "heading": "Opening Without Subtraction",
+          "text": "Architectural openings are usually produced through removal: material is cut away to create a door, window, or void. Here, the opening is formed through displacement instead. Space appears not because matter is subtracted, but because the surface is pushed outward. The project therefore redefines the act of opening as a process of deformation rather than incision."
+        },
+        {
+          "heading": "From Surface to Occupiable Niche",
+          "text": "As the pressure continues, the wall thickens into an inhabitable condition. The extrusion creates a shallow balcony-like niche that can be entered and occupied, turning a once-flat line into a spatial pocket. This transformation blurs the distinction between facade and room, making the threshold itself the project’s primary spatial event."
+        },
+        {
+          "heading": "The Wound as Architectural Mark",
+          "text": "The protrusion reads as a wound because it registers force visibly. It is not a smooth or invisible modification, but a mark of stress retained in form. This gives the architecture a sense of tension and memory, as though the building records the internal pressure that shaped it. The wound is therefore not damage, but evidence of spatial becoming."
+        },
+        {
+          "heading": "Tension as Spatial Generator",
+          "text": "Extruded Wound proposes that architecture does not always need to be expanded through addition. Sometimes space can emerge by allowing tension to act upon an existing boundary. In this project, pressure is treated as a design tool, capable of converting enclosure into access and flatness into occupation. What results is a minimal yet charged architecture, where a single deformation is enough to transform the identity of the whole."
+        }
+      ],
+      "material": "Monolithic fair-faced white concrete",
+      "construction": "Cast-in-place monolithic concrete volume with outwardly deformed wall cavity and integrated balcony niche",
+      "status": "Concept & facade-deformation study",
+      "images": [
+        {
+          "url": "/upload/extruded-wound/extruded-wound-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/extruded-wound/extruded-wound-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/extruded-wound/extruded-wound-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/extruded-wound/extruded-wound-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/extruded-wound/extruded-wound-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 6,
+      "created_at": "2026-09-12T12:57:00.000Z"
+    },
+    {
+      "id": "f92a3c1b-50e2-4f01-9a33-28394a5b6c7d",
+      "title": "Between the Pages",
+      "slug": "between-the-pages",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A book is transformed into architecture through layered and folded planes, creating an inhabitable void between surfaces as though pages were caught mid-turn.",
+      "concept": "Between the Pages begins with the image of a book not as an object to be represented, but as a spatial condition to be inhabited. The building mass is understood as a sequence of layered, lifted, and folded planes, like pages suspended in the act of turning. Rather than being composed as a solid volume, the architecture appears to accumulate through repetition, as though it has grown from the internal logic of stacked sheets. Each horizontal layer contributes depth, rhythm, and a sense of compression, while the folded edges soften the boundary between roof, wall, and ground. In this way, the project dissolves conventional architectural distinctions and replaces them with a continuous surface language. Yet the architecture is not only about the pages themselves. Its true spatial life emerges in the voids between them—those in-between spaces where people move, gather, pause, read, and reflect. The project therefore transforms the book from a static object into a lived spatial narrative, where enclosure is formed not by mass alone, but by the intervals between layers.",
+      "question": "What if a building were not designed as a solid object, but as a book whose pages had become space?",
+      "operations": [
+        "LAYERING",
+        "FOLDING",
+        "LIFTING",
+        "STACKING",
+        "CURLING",
+        "THICKENING",
+        "OPENING",
+        "REVEALING"
+      ],
+      "transformation": "The project begins with the simple geometry of a flat page—thin, horizontal, and bounded. Through repetition, these planes are stacked to create the density of a book, but rather than remaining rigidly aligned, they begin to shift, lift, and curve. At one end, the layers peel upward like pages being turned, while elsewhere they fold back over themselves to generate enclosure, canopy, and ground. This gradual deformation allows the mass to transition from a collection of sheets into an inhabitable architectural body. As the planes separate and overlap, spaces appear between them: sheltered voids below, framed apertures within, and elevated cavities above. What starts as a stack of surfaces evolves into an architecture of layered continuity, where the most important spaces are produced not by the pages themselves, but by the intervals that open between them.",
+      "sections": [
+        {
+          "heading": "Architecture as Accumulated Pages",
+          "text": "Between the Pages treats architecture not as a single object, but as an accumulation of thin planes. The repeated horizontal layers evoke the thickness of a book, giving the mass a sense of growth and sedimentation rather than conventional construction. The project feels assembled through continuity and repetition, as though each layer were another page contributing to a larger spatial narrative."
+        },
+        {
+          "heading": "Folding as Spatial Continuity",
+          "text": "The folded edges are central to the project’s formal language. Rather than separating roof, wall, and ground into distinct elements, the architecture allows one condition to turn into another through continuous curvature. This folding softens architectural boundaries and produces a form that feels less assembled from parts than shaped through motion, like a surface caught in the act of turning."
+        },
+        {
+          "heading": "Layering as Depth and Rhythm",
+          "text": "The repetition of planes generates more than thickness; it produces rhythm, shadow, and perceptual depth. Each layer registers itself as part of a larger system, allowing the building to be read as a sequence rather than a singular mass. This layered condition gives the architecture a temporal quality, as though the form records multiple moments of movement in a single frozen configuration."
+        },
+        {
+          "heading": "Inhabiting the Void",
+          "text": "The project’s most meaningful spaces are not contained within a carved solid, but formed between planes. These voids become areas of passage, gathering, pause, and contemplation. By giving importance to the spaces between layers, the project suggests that architecture is not only defined by what is built, but also by the intervals that remain open. The void becomes a place of occupation rather than absence."
+        },
+        {
+          "heading": "A Book Transformed into Space",
+          "text": "Between the Pages ultimately proposes an architecture of reading without words. Its form translates the physical logic of a book—stacking, turning, layering, and opening—into spatial experience. The building is not a literal representation of a book, but an architectural interpretation of how a book behaves. In this way, the project becomes a place where form, movement, and inhabitation are all shaped by the idea of being between pages."
+        }
+      ],
+      "material": "Monolithic fair-faced white concrete",
+      "construction": "Layered cast-in-place concrete planes with folded slab-edge envelope",
+      "status": "Concept & spatial narrative study",
+      "images": [
+        {
+          "url": "/upload/between-the-pages/between-the-pages-1.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/between-the-pages/between-the-pages-2.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/between-the-pages/between-the-pages-3.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/between-the-pages/between-the-pages-4.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/between-the-pages/between-the-pages-1.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 7,
+      "created_at": "2026-09-12T12:58:00.000Z"
+    },
+    {
+      "id": "a4b1c2d3-e4f5-4678-9101-112131415161",
+      "title": "A Tied Box",
+      "slug": "a-tied-box",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A rigid box is imagined as a soft body tightened around its middle, where compression creates an inhabitable spatial belt instead of merely deforming the mass.",
+      "concept": "A Tied Box begins with a contradiction: what if a rigid architectural volume could respond to pressure like soft clay? The project imagines a simple box being tightened around its middle by an invisible binding force, similar to a rope compressing a soft object or a ring pressing into skin. Instead of maintaining a uniform section, the mass yields locally, drawing inward and producing a continuous indentation around its perimeter. This compressed zone becomes more than a formal scar. It is hollowed, glazed, and inhabited, transforming the physical consequence of pressure into a new architectural level. The upper and lower masses remain visually heavy, while the narrowed middle becomes light, transparent, and spatially active. Rather than adding another floor to the box, the project creates space by forcing the existing mass to surrender part of itself.",
+      "question": "What happens when a rigid box is tied tightly enough to develop a waist?",
+      "operations": [
+        "BINDING",
+        "COMPRESSING",
+        "TIGHTENING",
+        "INDENTING",
+        "PINCHING",
+        "HOLLOWING",
+        "GLAZING",
+        "INHABITING"
+      ],
+      "transformation": "The project begins with a conventional solid box defined by equal width from top to bottom. An imaginary horizontal binding force is then wrapped around its centre and gradually tightened. Under pressure, the middle of the mass begins to recede while the upper and lower volumes retain their original weight. The corners soften as the deformation wraps continuously around the building, creating the impression of a body compressed from all sides. Rather than leaving this indentation as a purely formal gesture, the recessed zone is hollowed and enclosed with glass, turning the narrowest part of the volume into an occupiable intermediate level. What begins as compression becomes program; what appears to be structural restriction becomes spatial opportunity.",
+      "sections": [
+        {
+          "heading": "When the Box Becomes Soft",
+          "text": "The project begins with one of architecture’s most stable geometries: the box. Normally understood as rigid and geometrically fixed, it is instead imagined as a body capable of yielding under pressure. By giving the box a material behaviour closer to clay or skin, deformation becomes possible without destroying its fundamental identity."
+        },
+        {
+          "heading": "The Invisible Binding",
+          "text": "No literal rope is required for the act of binding to remain legible. An imagined force tightens continuously around the middle of the volume, compressing its perimeter into a recessed band. The building therefore records an absent external force through its own deformation, making pressure visible without revealing the object responsible for it."
+        },
+        {
+          "heading": "Compression Becomes Space",
+          "text": "The indentation is not treated as an ornamental groove. As the centre withdraws, the resulting cavity acquires sufficient depth to become inhabitable. Glass replaces the opaque envelope within this compressed zone, creating a continuous intermediate space suspended between two heavier masses. The architecture gains usable volume precisely where it appears to have lost mass."
+        },
+        {
+          "heading": "Between Weight and Lightness",
+          "text": "The compressed belt produces a deliberate reversal of visual weight. The upper volume appears massive and almost unsupported, while the middle becomes transparent and slender. This tension makes the building seem simultaneously compressed and separated, as though the binding force has pulled the two solid halves together while carving a moment of openness between them."
+        },
+        {
+          "heading": "The Architecture of an Indentation",
+          "text": "A Tied Box proposes that architectural space can emerge from pressure rather than addition. Like a ring leaving a mark on skin, the deformation records contact, force, and resistance. Yet the mark is no longer merely evidence of compression; it becomes circulation, occupation, and threshold. The building turns its most constrained point into its most spatially open condition."
+        }
+      ],
+      "material": "Monolithic fair-faced white concrete with recessed glass compression band",
+      "construction": "Stacked reinforced-concrete volumes compressed around a recessed glazed structural belt",
+      "status": "Concept & pressure-driven massing study",
+      "images": [
+        {
+          "url": "/upload/a-tied-box/a-tied-box-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/a-tied-box/a-tied-box-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/a-tied-box/a-tied-box-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/a-tied-box/a-tied-box-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/a-tied-box/a-tied-box-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/a-tied-box/a-tied-box-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 8,
+      "created_at": "2026-09-12T12:59:00.000Z"
+    },
+    {
+      "id": "b5c2d3e4-f6a7-4890-8123-234567890123",
+      "title": "Four Wing Oculus",
+      "slug": "four-wing-oculus",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "Four familiar pitched roofs are drawn toward a shared center, where they bend into one continuous surface and open around a tree, turning the void into the heart of the architecture.",
+      "concept": "Four Wing Oculus begins with a familiar architectural image: the pitched roof. Instead of treating each roof as an isolated element, the project imagines four roofed wings being gently pulled toward one centre. As they converge, their individual identities begin to soften. The ridges lower, the valleys merge, and the separate roofs transform into one continuous topographic surface. At the point where closure would normally occur, the architecture opens. A circular void is formed around a tree, allowing nature to occupy the centre rather than be pushed outside the building. The project therefore becomes a study of convergence: four wings become one roof, one roof becomes one opening, and that opening becomes a living core. Rather than framing nature from a distance, the building reshapes itself around it.",
+      "question": "What if the roof did not avoid nature, but bent inward to make space for it?",
+      "operations": [
+        "REPEATING",
+        "CONVERGING",
+        "PULLING",
+        "BENDING",
+        "MERGING",
+        "HOLLOWING",
+        "OPENING",
+        "FRAMING",
+        "CENTERING",
+        "INHABITING"
+      ],
+      "transformation": "The project begins with four simple pitched-roof volumes arranged as separate wings. Each one is oriented toward a common centre, establishing a cross-like plan made from familiar domestic forms. Instead of remaining detached, the roofs are gradually pulled inward. Their edges stretch, their peaks soften, and their surfaces begin to merge into one continuous roofscape. At the exact point of convergence, the mass does not close; it withdraws. A central oculus is carved out, creating space for a tree to rise through the architecture. This void becomes both spatial and symbolic: it brings light down into the interior, establishes visual orientation for all four wings, and transforms the centre into a place of stillness and gathering. What starts as a composition of four roofs becomes a unified architectural field shaped around a living presence.",
+      "sections": [
+        {
+          "heading": "From Four Roofs to One Surface",
+          "text": "The project begins with one of architecture’s most recognizable forms: the pitched roof. Repeated four times, it creates a field of familiar elements. Yet the intention is not repetition for its own sake. Each roof is positioned as part of a larger relationship, so that the composition can move from multiplicity toward unity."
+        },
+        {
+          "heading": "Convergence as a Spatial Act",
+          "text": "The four wings are drawn toward a shared centre, as if pulled by an invisible force. This convergence transforms the roof from a set of separate objects into a continuous surface. The architecture no longer reads as four independent buildings, but as one connected body shaped by inward movement."
+        },
+        {
+          "heading": "The Centre as Void",
+          "text": "Where the roofs meet, the project resists the temptation to seal the centre. Instead, it opens it. The central void is not an absence to be ignored, but the most important spatial decision in the building. It becomes an oculus that brings light, air, and orientation into the project while creating a visual and experiential heart."
+        },
+        {
+          "heading": "Architecture Around a Tree",
+          "text": "At the centre of the oculus stands a tree. The building does not merely accommodate it as decoration; it organizes itself around it. Nature is therefore not placed beside the architecture, nor inserted as an afterthought, but becomes the generator of the central space. The tree gives the project scale, presence, and a living stillness that contrasts with the movement of the roof."
+        },
+        {
+          "heading": "A Familiar Form Reimagined",
+          "text": "Four Wing Oculus proposes that transformation can emerge from very ordinary architectural elements. The pitched roof remains legible, but it is reinterpreted through bending, merging, and opening. The result is a building that feels both familiar and strange: rooted in known forms, yet reorganized into a new relationship between shelter, void, and nature."
+        }
+      ],
+      "material": "Pale ribbed roof shell, slender structural frame, and full-height perimeter glazing",
+      "construction": "Four pitched roof wings pulled inward and merged into a continuous surface around a central open oculus",
+      "status": "Concept & roof-transformation study",
+      "images": [
+        {
+          "url": "/upload/four-wing-oculus/four-wing-oculus-1.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/four-wing-oculus/four-wing-oculus-2.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/four-wing-oculus/four-wing-oculus-3.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/four-wing-oculus/four-wing-oculus-4.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/four-wing-oculus/four-wing-oculus-5.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/four-wing-oculus/four-wing-oculus-6.jpg",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/four-wing-oculus/four-wing-oculus-1.jpg",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 9,
+      "created_at": "2026-09-12T13:00:00.000Z"
+    },
+    {
+      "id": "c6d3e4f5-a7b8-4901-9234-345678901234",
+      "title": "The Ex-In Between",
+      "slug": "the-ex-in-between",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A continuous mass is carved and pulled into an in-between condition, where architecture is no longer clearly interior or exterior, but a spatial negotiation between both.",
+      "concept": "The Ex-In Between explores architecture not as an object made of enclosed rooms, but as a condition suspended between outside and inside. A continuous mass is shaped through subtraction, carving out passages, thresholds, and a lifted inhabitable plane. The result is neither a building you simply enter, nor a landscape you merely walk across. It becomes a spatial field of transition, where boundaries dissolve and movement defines experience. The curved concrete wall does not only contain space; it redirects it, wraps it, and releases it. The body does not pass through a fixed form, but continuously negotiates its position within a shifting relationship of enclosure, exposure, compression, and openness.",
+      "question": "What if architecture was not defined by inside or outside, but by the spatial tension between them?",
+      "operations": [
+        "CARVING",
+        "SUBTRACTING",
+        "BENDING",
+        "LIFTING",
+        "WRAPPING",
+        "FOLDING",
+        "REVEALING",
+        "THRESHOLDING",
+        "GUIDING",
+        "NEGOTIATING"
+      ],
+      "transformation": "The project begins as a simple solid mass, heavy and continuous. Instead of being divided into conventional rooms, the mass is subtracted and reshaped from within. An arched void is cut through the lower portion, opening a threshold beneath the body of the form. Simultaneously, the upper surface is pulled outward and lifted into a ramp-like plane, creating an inhabitable platform that extends into space. The enclosing wall curves around this movement, forming a continuous boundary that is neither entirely closed nor fully open. Through these operations, the architecture becomes a spatial sequence rather than a fixed object. It moves from solid to void, from enclosure to exposure, from mass to passage. What emerges is not a singular room or façade, but an in-between condition where the user experiences architecture as negotiation.",
+      "sections": [
+        {
+          "heading": "Neither Outside nor Inside",
+          "text": "The project begins with a rejection of the usual architectural binary. Instead of separating exterior from interior, The Ex-In Between proposes a spatial condition where both overlap. The architecture is experienced not as a transition from one to the other, but as a sustained state of being in between."
+        },
+        {
+          "heading": "Mass as Spatial Potential",
+          "text": "A continuous concrete mass forms the basis of the project. Rather than treating mass as something static or merely solid, it is understood as potential — something that can be carved, stretched, and hollowed. Through subtraction, the solid begins to reveal space rather than simply contain it."
+        },
+        {
+          "heading": "Subtraction as Formation",
+          "text": "The architecture is shaped less by addition than by removal. Openings, passages, and inhabitable voids are not attached to the form, but extracted from it. This process transforms the mass into a spatial instrument, creating thresholds and routes that feel discovered rather than imposed."
+        },
+        {
+          "heading": "The Body Negotiates Space",
+          "text": "Movement is central to the project. The user does not encounter a clearly defined room, corridor, or façade, but a shifting set of spatial relationships. At times the body is sheltered beneath the mass, at others lifted upon it, and elsewhere pressed between curving surfaces. Occupation becomes an act of negotiation, guided by the geometry of the form."
+        },
+        {
+          "heading": "Architecture as Condition",
+          "text": "The Ex-In Between suggests that architecture can be understood as a condition rather than a fixed object. Its identity lies not in enclosure alone, but in how it frames ambiguity — between open and closed, heavy and light, passage and pause. What remains is a spatial experience defined by continuity, tension, and the intuitive movement of the body through an indeterminate field."
+        }
+      ],
+      "material": "Exposed concrete shell, monolithic carved surface, and continuous ramped plane",
+      "construction": "A continuous concrete mass shaped through subtraction, folding into a ramp, platform, and arched threshold",
+      "status": "Concept & spatial-transformation study",
+      "images": [
+        {
+          "url": "/upload/the-ex-in-between/the-ex-in-between-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/the-ex-in-between/the-ex-in-between-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/the-ex-in-between/the-ex-in-between-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/the-ex-in-between/the-ex-in-between-4.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/the-ex-in-between/the-ex-in-between-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/the-ex-in-between/the-ex-in-between-6.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/the-ex-in-between/the-ex-in-between-7.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/the-ex-in-between/the-ex-in-between-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 10,
+      "created_at": "2026-09-12T13:01:00.000Z"
+    },
+    {
+      "id": "d7e4f5a6-b8c9-4012-8345-456789012345",
+      "title": "Tunnel-Formed Mass",
+      "slug": "tunnel-formed-mass",
+      "world": "anomaly",
+      "category": "Architecture",
+      "year": "2025",
+      "location": "Conceptual Study",
+      "role": "Concept, design, visualization",
+      "summary": "A soft monolithic mass is shaped by support and gravity, leaving behind a tunnel-like void that becomes the primary spatial entry.",
+      "concept": "Tunnel-Formed Mass explores architecture as a result of pressure, support, and release. The form is imagined as a soft clay-like volume, first tilted and then temporarily held by a cylindrical support. As the mass settles, its surface stretches and curves around the inserted object, adapting to its presence rather than resisting it. Once the form hardens and the support is removed, a contained tunnel-like void remains. This void is not carved afterward, but produced through the memory of what once occupied the mass. Architecture here emerges not from assembling walls and openings, but from a process of deformation, support, and subtraction. The opening becomes both trace and threshold — a passage shaped by an absent force.",
+      "question": "What if space was not carved into mass, but left behind by something that once held it open?",
+      "operations": [
+        "TILTING",
+        "SUPPORTING",
+        "PRESSING",
+        "SETTLING",
+        "HARDENING",
+        "RELEASING",
+        "SUBTRACTING",
+        "HOLLOWING",
+        "REVEALING",
+        "THRESHOLDING"
+      ],
+      "transformation": "The project begins as a continuous soft mass, imagined as pliable and weight-bearing. This volume is tilted, creating a sense of directional movement and imbalance. A cylindrical support is then inserted to hold part of the mass open while it settles. As gravity acts upon the volume, the surface stretches downward and wraps around the temporary support, producing a smooth deformation between top, side, and ground. Once the mass is set and hardened, the support is removed. What remains is a tunnel-like void embedded within the solid body. This space becomes the main access through the form — not an applied entrance, but the residue of a structural and spatial event. The architecture is therefore shaped by process: from mass to deformation, from support to absence, from solid to passage.",
+      "sections": [
+        {
+          "heading": "Mass Before Space",
+          "text": "The project begins with mass, not with rooms. Rather than designing enclosure first, Tunnel-Formed Mass imagines architecture as a solid volume with latent spatial potential. Space appears only after the mass is acted upon, deformed, and released."
+        },
+        {
+          "heading": "Support as Generator",
+          "text": "A cylindrical support plays a crucial generative role. It does not merely prop up the form; it creates the condition for space to emerge. By holding the soft mass open during its transformation, the support becomes the invisible author of the tunnel void."
+        },
+        {
+          "heading": "Deformation Through Gravity",
+          "text": "The tilted mass suggests a process shaped by weight and settling. Its surface appears to flow and adapt, as though pulled by gravity while negotiating the resistance of the inserted support. The resulting geometry feels neither carved nor assembled, but formed through physical behavior."
+        },
+        {
+          "heading": "The Void as Trace",
+          "text": "When the support is removed, the void it leaves behind becomes a spatial trace — a memory of something absent. This tunnel-like opening is both imprint and access, turning a temporary construction condition into a permanent architectural experience."
+        },
+        {
+          "heading": "Passage as Architecture",
+          "text": "Tunnel-Formed Mass treats passage not as a secondary circulation device, but as the core of the project. The tunnel is the architectural event itself: a threshold produced through subtraction, guiding the body through a space that feels discovered rather than inserted."
+        }
+      ],
+      "material": "Layered monolithic shell, clay-like mass, and carved tunnel void",
+      "construction": "A soft mass is tilted, supported by a cylindrical form, then hardened into a monolithic body with a tunnel-like opening",
+      "status": "Concept & form-transformation study",
+      "images": [
+        {
+          "url": "/upload/tunnel-formed-mass/tunnel-formed-mass-1.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/tunnel-formed-mass/tunnel-formed-mass-2.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/tunnel-formed-mass/tunnel-formed-mass-3.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        },
+        {
+          "url": "/upload/tunnel-formed-mass/tunnel-formed-mass-5.png",
+          "position": "center",
+          "ratio": "fullscreen-mobile",
+          "mobileRatio": "fullscreen-mobile"
+        }
+      ],
+      "cover": "/upload/tunnel-formed-mass/tunnel-formed-mass-1.png",
+      "cover_position": "center",
+      "published": true,
+      "featured": true,
+      "order": 11,
+      "created_at": "2026-09-12T13:02:00.000Z"
+    }
+  ]
+}

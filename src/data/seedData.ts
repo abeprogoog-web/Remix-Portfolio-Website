@@ -60,25 +60,25 @@ export const PRESERVED_STUDIO_DATA = {
       "status": "Concept & structural feasibility study",
       "images": [
         {
-          "url": "/upload/court-infinity-walk-1.jpg",
+          "url": "/upload/court-infinity-walk/court-infinity-walk-1.jpg",
           "position": "center",
           "ratio": "fullscreen-mobile",
           "mobileRatio": "fullscreen-mobile"
         },
         {
-          "url": "/upload/court-infinity-walk-2.jpg",
+          "url": "/upload/court-infinity-walk/court-infinity-walk-2.jpg",
           "position": "center",
           "ratio": "fullscreen-mobile",
           "mobileRatio": "fullscreen-mobile"
         },
         {
-          "url": "/upload/court-infinity-walk-3.jpg",
+          "url": "/upload/court-infinity-walk/court-infinity-walk-3.jpg",
           "position": "center",
           "ratio": "fullscreen-mobile",
           "mobileRatio": "fullscreen-mobile"
         }
       ],
-      "cover": "/upload/court-infinity-walk-1.jpg",
+      "cover": "/upload/court-infinity-walk/court-infinity-walk-1.jpg",
       "cover_position": "center",
       "published": true,
       "featured": true,
